@@ -1,0 +1,21 @@
+body {
+	background: darkred;
+}
+body {
+	font-family:Georgia, arial, Cambria;
+	Color: white;
+}
+body {
+	font-size: 15pt;
+}
+#leftColumn {
+	float: left;
+	width: 45%;
+	margin: 1%;
+}
+
+#rightColumn {
+	float: right;
+	width: 45%;
+	margin: 1%
+}
